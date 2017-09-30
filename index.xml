@@ -6,14 +6,15 @@
     <description>Recent content on Port of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 30 Sep 2017 17:15:06 -0500</lastBuildDate>
     
 	<atom:link href="http://cfaught.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>Test</title>
       <link>http://cfaught.github.io/posts/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Sep 2017 17:15:06 -0500</pubDate>
       
       <guid>http://cfaught.github.io/posts/test/</guid>
       <description> Hello World! Welcome to Port of Code, the place to learn programming! var s = &amp;quot;JavaScript syntax highlighting&amp;quot;; alert(s);  </description>
