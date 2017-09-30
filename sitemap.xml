@@ -3,17 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://hugo.spf13.com/categories/</loc>
+    <loc>http://cfaught.github.io/posts/test/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cfaught.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.spf13.com/</loc>
+    <loc>http://cfaught.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.spf13.com/tags/</loc>
+    <loc>http://cfaught.github.io/posts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cfaught.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
