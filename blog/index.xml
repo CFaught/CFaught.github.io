@@ -1,60 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Port of Code</title>
-    <link>http://cfaught.github.io/</link>
-    <description>Recent content on Port of Code</description>
+    <title>Blog on Port of Code</title>
+    <link>http://cfaught.github.io/blog/</link>
+    <description>Recent content in Blog on Port of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cfaught.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cfaught.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Javascript Basics</title>
-      <link>http://cfaught.github.io/itemized/item1/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://cfaught.github.io/itemized/item1/</guid>
-      <description> Javascript </description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://cfaught.github.io/posts/test/</link>
-      <pubDate>Sat, 30 Sep 2017 17:15:06 -0500</pubDate>
-      
-      <guid>http://cfaught.github.io/posts/test/</guid>
-      <description> Hello World! Welcome to Port of Code, the place to learn programming! var s = &amp;quot;JavaScript syntax highlighting&amp;quot;; alert(s);  </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 2</title>
-      <link>http://cfaught.github.io/itemized/item2/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://cfaught.github.io/itemized/item2/</guid>
-      <description> App 2 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 3</title>
-      <link>http://cfaught.github.io/itemized/item3/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://cfaught.github.io/itemized/item3/</guid>
-      <description> App 3 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 4</title>
-      <link>http://cfaught.github.io/itemized/item4/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://cfaught.github.io/itemized/item4/</guid>
-      <description> App 4 </description>
-    </item>
     
     <item>
       <title>Creating a New Theme</title>
