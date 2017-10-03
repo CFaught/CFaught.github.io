@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Port of Code</title>
+    <title>Categories on Port of Code</title>
     <link>http://cfaught.github.io/categories/</link>
-    <description>Recent content on Port of Code</description>
+    <description>Recent content in Categories on Port of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
@@ -12,39 +12,57 @@
     
     
     <item>
-      <title>Javascript Basics</title>
-      <link>http://cfaught.github.io/itemized/item1/</link>
+      <title></title>
+      <link>http://cfaught.github.io/categories/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cfaught.github.io/itemized/item1/</guid>
-      <description> Javascript </description>
+      <guid>http://cfaught.github.io/categories/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fancy App 2</title>
-      <link>http://cfaught.github.io/itemized/item2/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Career change</title>
+      <link>http://cfaught.github.io/categories/career-change/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cfaught.github.io/itemized/item2/</guid>
-      <description> App 2 </description>
+      <guid>http://cfaught.github.io/categories/career-change/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fancy App 3</title>
-      <link>http://cfaught.github.io/itemized/item3/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Javascript</title>
+      <link>http://cfaught.github.io/categories/javascript/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cfaught.github.io/itemized/item3/</guid>
-      <description> App 3 </description>
+      <guid>http://cfaught.github.io/categories/javascript/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fancy App 4</title>
-      <link>http://cfaught.github.io/itemized/item4/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Programming</title>
+      <link>http://cfaught.github.io/categories/programming/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cfaught.github.io/itemized/item4/</guid>
-      <description> App 4 </description>
+      <guid>http://cfaught.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruby</title>
+      <link>http://cfaught.github.io/categories/ruby/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/categories/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web development</title>
+      <link>http://cfaught.github.io/categories/web-development/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/categories/web-development/</guid>
+      <description></description>
     </item>
     
   </channel>
