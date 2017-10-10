@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Port of Code</title>
+    <link>http://cfaught.github.io/categories/linux/</link>
+    <description>Recent content in Linux on Port of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cfaught.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installing the ubuntu linux subsystem on windows 10</title>
+      <link>http://cfaught.github.io/blog/installing_the_ubuntu_linux_subsystem_on_windows_10/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/blog/installing_the_ubuntu_linux_subsystem_on_windows_10/</guid>
+      <description>I recently had the pleasure of restoring my Windows laptop after breaking something in a Linux dualboot (another story for another day). While going through all the process of setting things back up, I remembered that I had heard somewhere that Windows 10 now has the capability for developers to install a full Ubuntu environment within Windows (No Virtual Machine Required). This enables users to open a Bash shell and run Linux tools all without loading a VM or rebooting.</description>
+    </item>
+    
+  </channel>
+</rss>

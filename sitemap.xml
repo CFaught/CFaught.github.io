@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>http://cfaught.github.io/blog/installing_the_ubuntu_linux_subsystem_on_windows_10/</loc>
+    <lastmod>2017-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cfaught.github.io/blog/what_is_programming_and_why_is_it_important/</loc>
+    <lastmod>2016-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://cfaught.github.io/blog/the_reason_for_weighing_anchor_and_setting_sail_with_software_development/</loc>
     <lastmod>2016-05-06T00:00:00+00:00</lastmod>
   </url>
@@ -30,7 +40,7 @@
   
   <url>
     <loc>http://cfaught.github.io/blog/</loc>
-    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,6 +73,18 @@
   </url>
   
   <url>
+    <loc>http://cfaught.github.io/categories/linux/</loc>
+    <lastmod>2017-02-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cfaught.github.io/categories/operating-systems/</loc>
+    <lastmod>2017-02-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://cfaught.github.io/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -76,13 +98,13 @@
   
   <url>
     <loc>http://cfaught.github.io/categories/programming/</loc>
-    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2016-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cfaught.github.io/categories/ruby/</loc>
-    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2016-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -94,6 +116,12 @@
   <url>
     <loc>http://cfaught.github.io/categories/web-development/</loc>
     <lastmod>2016-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cfaught.github.io/categories/windows/</loc>
+    <lastmod>2017-02-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

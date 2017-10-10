@@ -6,13 +6,22 @@
     <description>Recent content in Programming on Port of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 May 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cfaught.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Reason for Weighing Anchor and Setting Sail with Software Development</title>
+      <title>What is Programming and Why is it Important</title>
+      <link>http://cfaught.github.io/blog/what_is_programming_and_why_is_it_important/</link>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/blog/what_is_programming_and_why_is_it_important/</guid>
+      <description>What is Programming? Before I get too deep into this, I want to talk a little bit about what programming is, what it is not, and why it is important in todays world. Programming is how we humans communicate specific instructions on how to do something to a computer. Programming is the tool that developers use to flesh out ideas for solving a problem. Unfortunately, computers require a very specific form of communication called a programming language.</description>
+    </item>
+    
+    <item>
+      <title>Why I am Changing Careers to Software Development</title>
       <link>http://cfaught.github.io/blog/the_reason_for_weighing_anchor_and_setting_sail_with_software_development/</link>
       <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
       

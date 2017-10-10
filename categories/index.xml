@@ -39,9 +39,27 @@
     </item>
     
     <item>
+      <title>Linux</title>
+      <link>http://cfaught.github.io/categories/linux/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operating Systems</title>
+      <link>http://cfaught.github.io/categories/operating-systems/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/categories/operating-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Programming</title>
       <link>http://cfaught.github.io/categories/programming/</link>
-      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cfaught.github.io/categories/programming/</guid>
       <description></description>
@@ -50,7 +68,7 @@
     <item>
       <title>Ruby</title>
       <link>http://cfaught.github.io/categories/ruby/</link>
-      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cfaught.github.io/categories/ruby/</guid>
       <description></description>
@@ -62,6 +80,15 @@
       <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cfaught.github.io/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>http://cfaught.github.io/categories/windows/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/categories/windows/</guid>
       <description></description>
     </item>
     
