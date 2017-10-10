@@ -17,7 +17,7 @@
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cfaught.github.io/itemized/item1/</guid>
-      <description>Javascript Basics Javascript is the defacto language of the web. Written in 1995 by Brendan Eich originally for the Netscape internet browser and was originally named Mocha. Over the years Javascript has evolved and has seen a lot of changes, the name Javascript has stuck after originally being coined to draw on the publicity of Java (a completely different language altogether); the official name is actually ECMAScript with the most current version number of 6 (i.</description>
+      <description>Javascript Basics In my opinion, Javascript is a great language for beginners, because it is already installed in your browser! You can open up the console (Cmd + Opt + J for Mac OS users and Ctrl + Shift + J for Windows users) in Chrome and start writing code immediately. Alternatively, I will have code examples like the one below spaced throughout with an interactive prompt where you can write code and just hit run.</description>
     </item>
     
     <item>

@@ -6,19 +6,10 @@
     <description>Recent content in Categories on Port of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 May 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cfaught.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>http://cfaught.github.io/categories/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://cfaught.github.io/categories/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Career change</title>
@@ -32,7 +23,7 @@
     <item>
       <title>Javascript</title>
       <link>http://cfaught.github.io/categories/javascript/</link>
-      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cfaught.github.io/categories/javascript/</guid>
       <description></description>
