@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberrypi on Port of Code</title>
+    <link>http://cfaught.github.io/raspberrypi/</link>
+    <description>Recent content in Raspberrypi on Port of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cfaught.github.io/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Raspberry Pi Basics</title>
+      <link>http://cfaught.github.io/raspberrypi/item1/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/raspberrypi/item1/</guid>
+      <description>Raspberry Pi Basics In my opinion, Javascript is a great language for beginners, because it is already installed in your browser! You can open up the console (Cmd + Opt + J for Mac OS users and Ctrl + Shift + J for Windows users) in Chrome and start writing code immediately. Alternatively, I will have code examples like the one below spaced throughout with an interactive prompt where you can write code and just hit run.</description>
+    </item>
+    
+  </channel>
+</rss>

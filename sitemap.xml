@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://cfaught.github.io/itemized/item1/</loc>
+    <loc>http://cfaught.github.io/raspberrypi/item1/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cfaught.github.io/javascript/item1/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -55,7 +60,7 @@
   </url>
   
   <url>
-    <loc>http://cfaught.github.io/itemized/</loc>
+    <loc>http://cfaught.github.io/javascript/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -80,7 +85,7 @@
   
   <url>
     <loc>http://cfaught.github.io/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,6 +98,18 @@
   <url>
     <loc>http://cfaught.github.io/categories/programming/</loc>
     <lastmod>2016-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cfaught.github.io/categories/raspberry-pi/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cfaught.github.io/raspberrypi/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
