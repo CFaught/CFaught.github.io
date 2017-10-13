@@ -2302,7 +2302,7 @@
 	width: inherit;
 	padding-left: 0.5em !important;
 	padding-right: 0.5em !important;
-	margin-left: none !important;
+	margin-left: 0 !important;
 }
 
 #header .links li ul.dropdown-content li {
@@ -2319,6 +2319,7 @@
   line-height:40px; /* newly added */
 	text-align: left;
 	border-left: none;
+	margin-left: 0;
 }
 #header .links ul li ul li:first-child {
 	padding-top: 1em;
