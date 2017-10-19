@@ -6,10 +6,32 @@
     <description>Recent content on Port of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cfaught.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Learn Programming as a Beginner</title>
+      <link>http://cfaught.github.io/blog/anyone_can_learn_to_code/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/blog/anyone_can_learn_to_code/</guid>
+      <description>Anyone Can Learn to Code I believe that a lot of people approach the idea of programming with a bias built up from hearing about guys from MIT and Harvard starting revolutionary projects causing people to think that programmers need to be mathematicians or computer science majors to become competent at developing applications. And while it&amp;rsquo;s true that there are a lot of super smart people in the community who have pioneered the technology, there are also just as many average Joe&amp;rsquo;s out there with good ideas that are able to pick up programming and build great things.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://cfaught.github.io/blog/resources/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/blog/resources/</guid>
+      <description>Web Resources  Code Academy - has great interactive lessons in programming.
+ Free Code Camp - is an online free bootcamp curriculum focusing on Javascript.
+ Flatiron (paid) - is a great online bootcamp that I went through that focuses on Ruby and Javascript.
+  Books  Learn to Program - By Chris Pine is a great basic intro to Ruby and programming in general.
+ Javascript and jQuery - By Jon Duckett is a great Javascript and jQuery primer for more front-end type work.</description>
+    </item>
     
     <item>
       <title>Raspberry Pi Basics</title>

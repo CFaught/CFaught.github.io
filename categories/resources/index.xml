@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Port of Code</title>
+    <link>http://cfaught.github.io/categories/resources/</link>
+    <description>Recent content in Resources on Port of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cfaught.github.io/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resources</title>
+      <link>http://cfaught.github.io/blog/resources/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/blog/resources/</guid>
+      <description>Web Resources  Code Academy - has great interactive lessons in programming.
+ Free Code Camp - is an online free bootcamp curriculum focusing on Javascript.
+ Flatiron (paid) - is a great online bootcamp that I went through that focuses on Ruby and Javascript.
+  Books  Learn to Program - By Chris Pine is a great basic intro to Ruby and programming in general.
+ Javascript and jQuery - By Jon Duckett is a great Javascript and jQuery primer for more front-end type work.</description>
+    </item>
+    
+  </channel>
+</rss>

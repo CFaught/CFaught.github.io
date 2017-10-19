@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Port of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 May 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cfaught.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Beginners</title>
+      <link>http://cfaught.github.io/categories/beginners/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/categories/beginners/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Career change</title>
@@ -50,6 +59,15 @@
     <item>
       <title>Programming</title>
       <link>http://cfaught.github.io/categories/programming/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://cfaught.github.io/categories/programming/</link>
       <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cfaught.github.io/categories/programming/</guid>
@@ -62,6 +80,15 @@
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cfaught.github.io/categories/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://cfaught.github.io/categories/resources/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/categories/resources/</guid>
       <description></description>
     </item>
     

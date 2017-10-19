@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beginners on Port of Code</title>
+    <link>http://cfaught.github.io/categories/beginners/</link>
+    <description>Recent content in Beginners on Port of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cfaught.github.io/categories/beginners/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Learn Programming as a Beginner</title>
+      <link>http://cfaught.github.io/blog/anyone_can_learn_to_code/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cfaught.github.io/blog/anyone_can_learn_to_code/</guid>
+      <description>Anyone Can Learn to Code I believe that a lot of people approach the idea of programming with a bias built up from hearing about guys from MIT and Harvard starting revolutionary projects causing people to think that programmers need to be mathematicians or computer science majors to become competent at developing applications. And while it&amp;rsquo;s true that there are a lot of super smart people in the community who have pioneered the technology, there are also just as many average Joe&amp;rsquo;s out there with good ideas that are able to pick up programming and build great things.</description>
+    </item>
+    
+  </channel>
+</rss>
