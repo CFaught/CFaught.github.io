@@ -48,26 +48,13 @@
   </url>
   
   <url>
-    <loc>http://cfaught.github.io/categories/beginners/</loc>
-    <lastmod>2017-10-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://cfaught.github.io/blog/</loc>
     <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cfaught.github.io/categories/career-change/</loc>
-    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://cfaught.github.io/categories/</loc>
-    <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -84,12 +71,6 @@
   <url>
     <loc>http://cfaught.github.io/categories/javascript/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cfaught.github.io/categories/linux/</loc>
-    <lastmod>2017-02-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -118,12 +99,6 @@
   </url>
   
   <url>
-    <loc>http://cfaught.github.io/categories/programming/</loc>
-    <lastmod>2016-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://cfaught.github.io/categories/raspberry-pi/</loc>
     <lastmod>2017-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -132,12 +107,6 @@
   <url>
     <loc>http://cfaught.github.io/raspberrypi/</loc>
     <lastmod>2017-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cfaught.github.io/categories/resources/</loc>
-    <lastmod>2017-10-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -155,12 +124,6 @@
   <url>
     <loc>http://cfaught.github.io/categories/web-development/</loc>
     <lastmod>2016-05-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cfaught.github.io/categories/windows/</loc>
-    <lastmod>2017-02-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web development on Port of Code</title>
+    <title>Web Development on Port of Code</title>
     <link>http://cfaught.github.io/categories/web-development/</link>
-    <description>Recent content in Web development on Port of Code</description>
+    <description>Recent content in Web Development on Port of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 May 2016 00:00:00 +0000</lastBuildDate>
